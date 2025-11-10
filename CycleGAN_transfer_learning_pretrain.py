@@ -30,8 +30,8 @@ params = parser.parse_args()
 print(params)
 
 current_time = datetime.now().strftime('%b%d_%H%M%S')
-images_dir = r'images\label_2_kerry_SSIMLoss'
-model_dir = r'models\label_2_kerry_SSIMLoss'
+images_dir = r'images'
+model_dir = r'models'
 logpathnew = os.path.join(model_dir, current_time + '_his_filtered_real_west_fault_0519_dicessim_l1ssim_retrain')
 if not os.path.exists(images_dir):
     os.mkdir(images_dir)
