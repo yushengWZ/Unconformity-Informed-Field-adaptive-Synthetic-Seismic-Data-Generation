@@ -9,10 +9,8 @@ As described in **Unconformity Informed Field-adaptive Synthetic Seismic Data Ge
 [Yunmin Chen](https://scholar.google.com/citations?hl=zh-CN&user=0giqBqMAAAAJ)<sup>1</sup>.
 <sup>1</sup>Institute of Hypergravity Science and Technology, Zhejiang University; <sup>2</sup>Ocean College, Zhejiang University; <sup>3</sup>School of Information and Communications Engineering, Xi’an Jiaotong University.
 
-### Dataset
-The data for training CycleGAN named "FFEunconformity.npy", "kerry_cut.npy", and "unconf_cut.npy" can be downloaded from https://drive.google.com/drive/folders/1uWOTtE1Fr8K8I2E7PhmSZpj6Rw1d1iH8?usp=drive_link.
-The generated dataset named "FT-CG synthetic seismic data for Kerry.npy" and "FT-CG synthetic seismic data for Opunake.npy" can also be downloaded from https://drive.google.com/drive/folders/1uWOTtE1Fr8K8I2E7PhmSZpj6Rw1d1iH8?usp=drive_link.
 
 *This code is modified from the repository "https://github.com/NovemberZZ/Label-To-Seismic-Data/tree/main", we sincerely thank them for providing the details of the CycleGAN.*
+
 
 
